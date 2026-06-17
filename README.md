@@ -1,4 +1,4 @@
-```markdown
+
 # Insider Threat Detector: Behavioral Risk Scoring Engine
 
 An early-warning, privacy-aware security prototype designed to identify risky internal behaviors by combining statistical anomaly detection (**Isolation Forest**) with risk-prioritizing business rules. 
